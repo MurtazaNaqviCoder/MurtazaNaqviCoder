@@ -1,5 +1,5 @@
 # 👋 Hello, I'm [Murtaza Naqvi]
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2e31f7&size=25&lines=Welcome+To+My+GitHub+Profile!;I'm+Murtaza+Naqvi;A+Passionate+Programmer;A+Professional+Web+Developer" /></a>
+  <a align="center" href="https://github.com/MurtazaNaqviCoder"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2e31f7&size=25&lines=Welcome+To+My+GitHub+Profile!;I'm+Murtaza+Naqvi;A+Passionate+Programmer;A+Professional+Web+Developer" /></a>
 
 # 💻 My Experties/Works:
 <a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='Cloudflare' src='https://img.shields.io/badge/Cloudflare-100000?style=plastic&logo=Cloudflare&logoColor=F38020&labelColor=black&color=F38020'/></a>
@@ -28,7 +28,7 @@
 <br><br>
 
 # 👨‍💻 Coding Languages Learned:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a> </p>
 <br>
 
 # Profile:
@@ -55,17 +55,15 @@ I leverage these skills to create innovative, efficient, and user-friendly solut
 <p><b>- [Project 1: Weather App]</b><br>
   - Created an interactive weather app with visualizing animating colours which can show the current live weather of any city. (Languages Used: Python, HTML And CSS)</p>
 <img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334654459944/Screenshot_2024-12-22_164123.png?ex=67694d29&is=6767fba9&hm=8694dfb8539511cd9006b1aa6a37fa110526d6f75ad5e277e35b8f98d9b380eb&=&format=webp&quality=lossless&width=1084&height=503">
-<br><br>
+<br>
 <p><b>- [Project 2: Own Web Browser]</b><br>
   - Created a new professional browser including a side bar, tabs, ai feature and a lot of amazing features for my own personal use. (Languages Used: Python)</p>
 <img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334331367546/Screenshot_2024-12-22_163814.png?ex=67694d29&is=6767fba9&hm=0fb0e0456811a5e9887d0b97722269d7b099bf002215ee35f55bb28a1fa2fc86&=&format=webp&quality=lossless&width=946&height=503">
-<br><br>
+<br>
 <p><b>- [Project 3: Maths Game]</b><br>
   - Created an amazing Maths Game. The concept was that we have do solve 10 random maths sums of +, -, *, and / rapidly to get ranks according the time taken to complete it. (Languages Used: Python)</p>
 <img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356335182680137/Screenshot_2024-12-22_164343.png?ex=67694d29&is=6767fba9&hm=58c6843c058b70133b9fc5462ebb8947a2e7ef3a90faf77604e14498436285b1&=&format=webp&quality=lossless&width=434&height=503" height = 400 width = 300><img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334935347241/Screenshot_2024-12-22_164317.png?ex=67694d29&is=6767fba9&hm=02b3e88c45644589b2a7dc0817951bb7df46c9b1a1894735a7e9766788ca8af0&=&format=webp&quality=lossless&width=410&height=503" height = 400 width = 300><img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356335463694377/Screenshot_2024-12-22_164411.png?ex=67694d29&is=6767fba9&hm=51e1145dfbd32a91755d99629ac1a14832b2f18534c3a51a93c424948bcc8ffc&=&format=webp&quality=lossless&width=529&height=503" height = 400 width = 300>
 <br>
-<br>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=murtazanaqvicoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
