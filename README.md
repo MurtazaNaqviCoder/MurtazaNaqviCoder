@@ -2,26 +2,26 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2e31f7&size=25&lines=Welcome+To+My+GitHub+Profile!;I'm+Murtaza+Naqvi;A+Passionate+Programmer;A+Professional+Web+Developer" /></a>
 
 # 💻 My Experties/Works:
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cloudflare' src='https://img.shields.io/badge/Cloudflare-100000?style=plastic&logo=Cloudflare&logoColor=F38020&labelColor=black&color=F38020'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=plastic&logo=Python&logoColor=3776AB&labelColor=black&color=3776AB'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='C' src='https://img.shields.io/badge/C_Sharp-100000?style=plastic&logo=C&logoColor=0042F7&labelColor=black&color=0042F7'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='C' src='https://img.shields.io/badge/C_Language-100000?style=plastic&logo=C&logoColor=00599C&labelColor=black&color=00599C'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='C' src='https://img.shields.io/badge/CSS-100000?style=plastic&logo=C&logoColor=1572B6&labelColor=black&color=1572B6'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML-100000?style=plastic&logo=HTML5&logoColor=E34F26&labelColor=black&color=E34F26'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='.NET' src='https://img.shields.io/badge/.NET-100000?style=plastic&logo=.NET&logoColor=512BD4&labelColor=black&color=512BD4'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/SQL_Server-100000?style=plastic&logo=&logoColor=fcd100&labelColor=10D010&color=fcd100'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-100000?style=plastic&logo=MongoDB&logoColor=47A248&labelColor=000000&color=47A248'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=4479A1&labelColor=000000&color=4479A1'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe' src='https://img.shields.io/badge/Adobe-100000?style=plastic&logo=adobe&logoColor=FF0000&labelColor=000000&color=FF0000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe photoshop' src='https://img.shields.io/badge/Adobe_Photoshop-100000?style=plastic&logo=adobe photoshop&logoColor=001e36&labelColor=FFFFFF&color=001e36'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='adobe premiere pro' src='https://img.shields.io/badge/Adobe_Premiere Pro-100000?style=plastic&logo=adobe premiere pro&logoColor=001e36&labelColor=FFFFFF&color=001e36'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='canva' src='https://img.shields.io/badge/Canva-100000?style=plastic&logo=canva&logoColor=00C4CC&labelColor=000000&color=00C4CC'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Adobe Creative Cloud' src='https://img.shields.io/badge/Adobe_Creative Cloud-100000?style=plastic&logo=Adobe Creative Cloud&logoColor=DA1F26&labelColor=000000&color=DA1F26'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=plastic&logo=GitHub&logoColor=000000&labelColor=FFFFFF&color=000000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Picsart' src='https://img.shields.io/badge/Picsart-100000?style=plastic&logo=Picsart&logoColor=C209C1&labelColor=000000&color=C209C1'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-100000?style=plastic&logo=Jupyter&logoColor=F37626&labelColor=000000&color=F37626'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='WordPress' src='https://img.shields.io/badge/WordPress-100000?style=plastic&logo=WordPress&logoColor=21759B&labelColor=000000&color=21759B'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='WonderShare Filmora' src='https://img.shields.io/badge/Filmora-100000?style=plastic&logo=WonderShare Filmora&logoColor=07273D&labelColor=FFFFFF&color=07273D'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='Cloudflare' src='https://img.shields.io/badge/Cloudflare-100000?style=plastic&logo=Cloudflare&logoColor=F38020&labelColor=black&color=F38020'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=plastic&logo=Python&logoColor=3776AB&labelColor=black&color=3776AB'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='C' src='https://img.shields.io/badge/C_Sharp-100000?style=plastic&logo=C&logoColor=0042F7&labelColor=black&color=0042F7'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='C' src='https://img.shields.io/badge/C_Language-100000?style=plastic&logo=C&logoColor=00599C&labelColor=black&color=00599C'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='C' src='https://img.shields.io/badge/CSS-100000?style=plastic&logo=C&logoColor=1572B6&labelColor=black&color=1572B6'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML-100000?style=plastic&logo=HTML5&logoColor=E34F26&labelColor=black&color=E34F26'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='.NET' src='https://img.shields.io/badge/.NET-100000?style=plastic&logo=.NET&logoColor=512BD4&labelColor=black&color=512BD4'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='' src='https://img.shields.io/badge/SQL_Server-100000?style=plastic&logo=&logoColor=fcd100&labelColor=10D010&color=fcd100'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-100000?style=plastic&logo=MongoDB&logoColor=47A248&labelColor=000000&color=47A248'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=4479A1&labelColor=000000&color=4479A1'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='adobe' src='https://img.shields.io/badge/Adobe-100000?style=plastic&logo=adobe&logoColor=FF0000&labelColor=000000&color=FF0000'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='adobe photoshop' src='https://img.shields.io/badge/Adobe_Photoshop-100000?style=plastic&logo=adobe photoshop&logoColor=001e36&labelColor=FFFFFF&color=001e36'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='adobe premiere pro' src='https://img.shields.io/badge/Adobe_Premiere Pro-100000?style=plastic&logo=adobe premiere pro&logoColor=001e36&labelColor=FFFFFF&color=001e36'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='canva' src='https://img.shields.io/badge/Canva-100000?style=plastic&logo=canva&logoColor=00C4CC&labelColor=000000&color=00C4CC'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='Adobe Creative Cloud' src='https://img.shields.io/badge/Adobe_Creative Cloud-100000?style=plastic&logo=Adobe Creative Cloud&logoColor=DA1F26&labelColor=000000&color=DA1F26'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-100000?style=plastic&logo=GitHub&logoColor=000000&labelColor=FFFFFF&color=000000'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='Picsart' src='https://img.shields.io/badge/Picsart-100000?style=plastic&logo=Picsart&logoColor=C209C1&labelColor=000000&color=C209C1'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter-100000?style=plastic&logo=Jupyter&logoColor=F37626&labelColor=000000&color=F37626'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='WordPress' src='https://img.shields.io/badge/WordPress-100000?style=plastic&logo=WordPress&logoColor=21759B&labelColor=000000&color=21759B'/></a>
+<a href='https://github.com/MurtazaNaqviCoder' target="_blank"><img alt='WonderShare Filmora' src='https://img.shields.io/badge/Filmora-100000?style=plastic&logo=WonderShare Filmora&logoColor=07273D&labelColor=FFFFFF&color=07273D'/></a>
 
 <br>
 <img align="center" src="https://media.discordapp.net/attachments/1238806059049816075/1320345355778396221/standard.gif?ex=676942ef&is=6767f16f&hm=8ca3a5d273d4ee30734451a430e694a8bf35ce15fd4d6ad13ad23427ec578534&=">
