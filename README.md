@@ -54,15 +54,14 @@ I leverage these skills to create innovative, efficient, and user-friendly solut
 ### 📊 Projects:
 <p><b>- [Project 1: Weather App]</b><br>
   - Created an interactive weather app with visualizing animating colours which can show the current live weather of any city. (Languages Used: Python, HTML And CSS)</p>
-<img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334654459944/Screenshot_2024-12-22_164123.png?ex=67694d29&is=6767fba9&hm=8694dfb8539511cd9006b1aa6a37fa110526d6f75ad5e277e35b8f98d9b380eb&=&format=webp&quality=lossless&width=1084&height=503">
+<img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334654459944/Screenshot_2024-12-22_164123.png?ex=67ba6169&is=67b90fe9&hm=433c6e54b59ade77b0c220bc75bdd5717e07abfb6ec32b1d3feb6588b0c170fc&=&format=webp&quality=lossless&width=1084&height=503">
 <br>
 <p><b>- [Project 2: Own Web Browser]</b><br>
   - Created a new professional browser including a side bar, tabs, ai feature and a lot of amazing features for my own personal use. (Languages Used: Python)</p>
-<img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334331367546/Screenshot_2024-12-22_163814.png?ex=67694d29&is=6767fba9&hm=0fb0e0456811a5e9887d0b97722269d7b099bf002215ee35f55bb28a1fa2fc86&=&format=webp&quality=lossless&width=946&height=503">
+<img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334331367546/Screenshot_2024-12-22_163814.png?ex=67ba6169&is=67b90fe9&hm=a697857d522bb8730fa3c71bdde797a71c52ef0c872b1a137291f82fa5bbab8c&=&format=webp&quality=lossless&width=946&height=503">
 <br>
 <p><b>- [Project 3: Maths Game]</b><br>
   - Created an amazing Maths Game. The concept was that we have do solve 10 random maths sums of +, -, *, and / rapidly to get ranks according the time taken to complete it. (Languages Used: Python)</p>
-<img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356335182680137/Screenshot_2024-12-22_164343.png?ex=67694d29&is=6767fba9&hm=58c6843c058b70133b9fc5462ebb8947a2e7ef3a90faf77604e14498436285b1&=&format=webp&quality=lossless&width=434&height=503" height = 400 width = 300><img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356334935347241/Screenshot_2024-12-22_164317.png?ex=67694d29&is=6767fba9&hm=02b3e88c45644589b2a7dc0817951bb7df46c9b1a1894735a7e9766788ca8af0&=&format=webp&quality=lossless&width=410&height=503" height = 400 width = 300><img src ="https://media.discordapp.net/attachments/1238806059049816075/1320356335463694377/Screenshot_2024-12-22_164411.png?ex=67694d29&is=6767fba9&hm=51e1145dfbd32a91755d99629ac1a14832b2f18534c3a51a93c424948bcc8ffc&=&format=webp&quality=lossless&width=529&height=503" height = 400 width = 300>
 <br>
 
 # 📊 GitHub Stats:
